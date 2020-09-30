@@ -24,3 +24,16 @@
 2. I got a little bit more used to using the shortcut skectches to speed up time
 3. I struggled a little and i didn't have to keep on starting over
 4. Everything is going smoothly and i's really enjoying it
+
+# Fork
+# Assighnment description
+(Fork) I needed to create a fork for to go with my other projects
+
+# Photo
+![](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/Fork.png)
+
+# Reflection
+1. I learned more new shorcut tips such as mirror
+2. I did mess up a little bit, more than others
+3. Still progressing in a speedy way
+4. I have more confidence in making the parts
