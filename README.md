@@ -36,4 +36,18 @@
 1. I learned more new shorcut tips such as mirror
 2. I did mess up a little bit, more than others
 3. Still progressing in a speedy way
-4. I have more confidence in making the parts
+4. I have more confidence in making the part
+
+# Tire
+# Assighnment description
+(Tire) I needed to create a wheel using minimal instructions and features
+
+# Photo
+![](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/Tire.png)
+
+# Reflection
+1. The flow is better got this donr in around 5 minutes
+2. Glad it got straight to the point and easy to follow instructions
+3. Was excited to complete and notice my time increase
+4. Completed in arounds five to seven steps
+
