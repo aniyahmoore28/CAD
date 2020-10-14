@@ -113,3 +113,10 @@ I needed to create multiple mates to fix the parts together
 [Onshape sub assembly](https://cvilleschools.onshape.com/documents/c192d83386c1d3e3a658bccf/w/31a38867ddae185fb2c7874d/e/8bdd4af38d98686350b8c7dd)
 
 # Photo
+![](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/Wheel%20and%20Axle%20(sub%20assembly).png)
+
+# Reflection
+1. I learned how to make e revolt mate
+2. I learned how to choosing the mate places are important
+3. Took less than 10 mintues
+4. I learned how to insert versions of my part to mate them together
