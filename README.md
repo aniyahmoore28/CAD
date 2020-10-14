@@ -98,3 +98,10 @@
 
 # Photo
 ![](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/Axle%20and%20Collar%20.png)
+![](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/Big%20bearing.png)
+
+# Reflection
+1. I was able to easily combine and make diffrent pats
+2. I learned how to make a part with two mintus
+3. I was comfident I knew what I was doing
+4. Completed all the parts I needed for my sub-assembly
