@@ -105,3 +105,11 @@
 2. I learned how to make a part with two mintus
 3. I was comfident I knew what I was doing
 4. Completed all the parts I needed for my sub-assembly
+
+# Sub assembly
+I needed to create multiple mates to fix the parts together
+
+# Evidence
+[Onshape sub assembly](https://cvilleschools.onshape.com/documents/c192d83386c1d3e3a658bccf/w/31a38867ddae185fb2c7874d/e/8bdd4af38d98686350b8c7dd)
+
+# Photo
