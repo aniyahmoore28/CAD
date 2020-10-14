@@ -8,7 +8,7 @@
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Sub assembly] (#Subassembly)
+* [Sub assembly](https://github.com/aniyahmoore28/CAD/blob/master/README.md#sub-assembly)
 
 # Base 
 # Assighnment descirtption
