@@ -89,3 +89,11 @@
  3. Had the ability to multitask
  4. Used multiple fillets at once
 
+# Axlecollarbearings
+(Axlecollarbearings) I needed to make my last few peices before my sub assembly
+
+# Evidence
+[Onshape Axle, collar](https://cvilleschools.onshape.com/documents/e9553e520c9d249213c6766f/w/427cee2da7dcec7f875ab132/e/07cb115fb6edee05ad819e34)
+[Onshape Bearing](https://cvilleschools.onshape.com/documents/8b007c94edccc6b84df35894/w/0069b6c98eda3359517f97cb/e/26e249b67a78836ddb544de1)
+
+# Photo
