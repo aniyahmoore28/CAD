@@ -81,5 +81,11 @@
  [Onshape wheel](https://cvilleschools.onshape.com/documents/b806e3ca53058a2875ed9dbe/w/c57720608d8764e7734c8f3f/e/3fffcab5eeb5054812d32ed6)
  
  # Photo
+ ![](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/wheel.png)
  
+ # Reflection
+ 1. I learned how to make a ciruler pattern to make it go a little faster
+ 2. Once I got over my road block it was a breeze
+ 3. Had the ability to multitask
+ 4. Used multiple fillets at once
 
