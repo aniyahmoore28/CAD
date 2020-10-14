@@ -97,3 +97,4 @@
 [Onshape Bearing](https://cvilleschools.onshape.com/documents/8b007c94edccc6b84df35894/w/0069b6c98eda3359517f97cb/e/26e249b67a78836ddb544de1)
 
 # Photo
+![](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/Axle%20and%20Collar%20.png)
