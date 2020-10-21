@@ -121,3 +121,11 @@ I needed to create multiple mates to fix the parts together
 2. I learned how to choosing the mate places are important
 3. Took less than 10 mintues
 4. I learned how to insert versions of my part to mate them together
+
+# Caster Assembly
+I created a conjoined part with all of my indavidule parts
+
+# Evidence
+[Onshape Caster Assembly](https://cvilleschools.onshape.com/documents/32f2b0b806c94160bb8e0fb9/w/0704157d5a03a4af254b7128/e/7c0e958032ca206274e1461a)
+
+# Photo
