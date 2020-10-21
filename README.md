@@ -9,7 +9,7 @@
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub assembly](https://github.com/aniyahmoore28/CAD/blob/master/README.md#sub-assembly)
-
+* [Caster assembly](https://github.com/aniyahmoore28/CAD/blob/master/Project%20Images/Caster%20Assembly%20.png)
 # Base 
 # Assighnment descirtption
  (Base 1) We had to make the base of our main part on Onshape
